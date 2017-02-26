@@ -1,1 +1,1 @@
-go build -ldflags "-s -w -H=windowsgui"
+go build -ldflags "-H=windowsgui"
